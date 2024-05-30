@@ -59,6 +59,15 @@ ________________________________________________________
 ________________________________________________________
 
 **Project 6: Arduino Projects** 
-<br>
+Description: Created a series of mini projects with Arduino, Arduino UNO microcontroller board, and various small components. <br>
+1. RGB LEDs
+2. RGB LEDs on the Potentiometer
+3. Delayed LEDs Blink
+4. Light Detector
+5. Detect with Servo Motor
+6. Potentiometer with Servo Motor
+7. Piezo song - Hedwig's Theme
+[![Video](https://youtu.be/a5mm3Vk7p-4.jpg)](https://youtu.be/a5mm3Vk7p-4)
+
 ________________________________________________________
 ________________________________________________________
