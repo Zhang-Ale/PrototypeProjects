@@ -8,7 +8,7 @@ ________________________________________________________
 
 **Project 1: Different Inkscape Concept Designs**<br>
 Description: Created a series of art designs using Inkscape. <br>
-<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7)" width="400" height="400" />
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7)" width="400" height="400" />  
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/bdf50630-aa1a-46a0-806f-ddabf7812028" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/bdf50630-aa1a-46a0-806f-ddabf7812028)" width="400" height="400" /><br>
 1. Replicate the minimalist visual artist Josef Albers's Magnets 2. Clock<br>
 3. Stars<br>
