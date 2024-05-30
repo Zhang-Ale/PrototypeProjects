@@ -52,7 +52,8 @@ ________________________________________________________
 
 **Project 5: Glass Light Design** 
 Description: Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
-[TheBunny.pdf](https://github.com/Zhang-Ale/PrototypeProjects/files/15505147/TheBunny.pdf)<br>
+<img width="399" alt="TheBunny" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0">
+<br>
 ![light-ezgif com-optimize](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)<br>
 
 ________________________________________________________
