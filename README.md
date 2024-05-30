@@ -1,9 +1,10 @@
 # Prototype Projects
+
+**Contents**
+Below are the projects I made in a course called Intro to Rapid Prototyping at American University, using techniques and applications such as: Arduino, Vinyl Cutter, Laser Cutter, Inkscape, Fusion 360, 3D Printing, AxiDraw, and Adobe Illustrator. 
 <br>
-**Contents:** Below are the projects I made in a course called Intro to Rapid Prototyping at American University, using techniques and applications such as: Arduino, Vinyl Cutter, Laser Cutter, Inkscape, Fusion 360, 3D Printing, AxiDraw, and Adobe Illustrator. 
-<br>
-**
-Project 1: Replicate of Josef Albers's Magnets**
+
+**Project 1: Replicate of Josef Albers's Magnets**
 ![HongCheng_Albers](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7)
 Description: Created a replicate the minimalist visual artist Josef Albers's Magnets usig Inkscape. 
 <br>
