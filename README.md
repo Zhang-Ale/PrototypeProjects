@@ -9,54 +9,47 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Project 1: Replicate of Josef Albers's Magnets**<br>
+**Project 1: Different Inkscape Concept Designs**<br>
+Description: Created a series of art designs using Inkscape. <br>
+List: <br>
+1. Replicate the minimalist visual artist Josef Albers's Magnets<br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7)" width="400" height="400" /><br>
-Description: Created a replicate the minimalist visual artist Josef Albers's Magnets usig Inkscape. 
+2. Clock<br>
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/bdf50630-aa1a-46a0-806f-ddabf7812028" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/bdf50630-aa1a-46a0-806f-ddabf7812028)" width="400" height="400" /><br>
+3. Stars<br>
+4. Glitching Circles
 <br>
 
 ________________________________________________________
-
-
 ________________________________________________________
 
-Project 2: 
-<br>
+**Project 2:** <br>
 
 ________________________________________________________
-
-
 ________________________________________________________
 
 Project 3: 
 <br>
 
 ________________________________________________________
-
-
 ________________________________________________________
 
 Project 4: 
 <br>
 
 ________________________________________________________
-
-
 ________________________________________________________
 
 Project 5: 
 <br>
 
 ________________________________________________________
-
-
 ________________________________________________________
 
 Project 6: 
 <br>
 
 ________________________________________________________
-
-
 ________________________________________________________
 
 Project 7: 
