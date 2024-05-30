@@ -44,11 +44,7 @@ ________________________________________________________
 
 **Project 4: Wood Print Tags** 
 Description: Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
-<img width="575" alt="Screenshot 2024-05-30 at 3 24 08 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/71a9126d-8a77-4d06-b31d-f559a4c1fbbe">
-<img width="510" alt="Screenshot 2024-05-30 at 3 23 04 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c355422b-bf5a-4f73-8bee-4e310a1b5af5">
-<img width="503" alt="Screenshot 2024-05-30 at 3 22 50 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/5c9c0502-efd3-41e2-b345-50b54b95d85e">
-<img width="507" alt="Screenshot 2024-05-30 at 3 24 39 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/8e2baf74-de30-4f81-872b-d220cdd2e47e">
-![IMG_5397-min](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c9abecbb-8e76-46a8-8332-8f8966c3b15a)
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c9abecbb-8e76-46a8-8332-8f8966c3b15a" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c9abecbb-8e76-46a8-8332-8f8966c3b15a)" width="550" height="400" /><br>
 
 <br>
 ________________________________________________________
