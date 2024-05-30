@@ -18,7 +18,8 @@ Description: Created a series of art designs using Inkscape. <br>
 3. Stars<br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/be051388-32e7-40e9-aa55-8d752f9ca8cd" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/be051388-32e7-40e9-aa55-8d752f9ca8cd)" width="400" height="400" /><br>
 4. Glitching Circles<br>
-<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/5dbe3abe-5751-4006-a9f8-7350b7e0ad33" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/5dbe3abe-5751-4006-a9f8-7350b7e0ad33)" width="400" height="400" /><br>
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816)" width="400" height="400" /><br>
+
 <br>
 ________________________________________________________
 ________________________________________________________
