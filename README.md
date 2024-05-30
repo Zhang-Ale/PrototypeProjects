@@ -30,7 +30,7 @@ Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 1. Fidget Spinner (Round)<br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f7ae6e35-8f6f-4ff1-ad4c-ed6114c642df" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f7ae6e35-8f6f-4ff1-ad4c-ed6114c642df)" width="550" height="400" /><br>
 2. Fidget Spinner (Shuriken) <br>
-<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816)" width="500" height="400" /><br>
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816)" width="550" height="400" /><br>
 <br>
 ________________________________________________________
 ________________________________________________________
