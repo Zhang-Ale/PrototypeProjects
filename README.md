@@ -10,7 +10,7 @@ ________________________________________________________
 ________________________________________________________
 
 **Project 1: Replicate of Josef Albers's Magnets**
-![HongCheng_Albers](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7)
+![HongCheng_Albers](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/24e9de18-b47e-4b9f-8fa6-89e2f65b00c7 =250x250))
 Description: Created a replicate the minimalist visual artist Josef Albers's Magnets usig Inkscape. 
 <br>
 
