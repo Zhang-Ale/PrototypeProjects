@@ -41,7 +41,7 @@ ________________________________________________________
 Description: Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
 1. My own tag <br>
 <img width="273" alt="Screenshot 2024-05-30 at 3 36 24 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/7de4c3f1-b0cb-40a5-bd52-403bbc5dc09a"><br>
-<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c9abecbb-8e76-46a8-8332-8f8966c3b15a" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c9abecbb-8e76-46a8-8332-8f8966c3b15a)" width="450" height="300" /><br>
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c9abecbb-8e76-46a8-8332-8f8966c3b15a" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c9abecbb-8e76-46a8-8332-8f8966c3b15a)" width="450" height="330" /><br>
 2. AUCSSA tag <br>
 <img width="348" alt="Screenshot 2024-05-30 at 3 37 04 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c3857638-08f1-44c6-8167-512be2bc7ed2"><br>
 3. Bunny tag <br>
