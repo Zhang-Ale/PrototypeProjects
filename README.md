@@ -3,10 +3,8 @@
 **Contents:**
 Below are the projects I made in a course called Intro to Rapid Prototyping at American University, using techniques and applications such as: Arduino, Vinyl Cutter, Laser Cutter, Inkscape, Fusion 360, 3D Printing, AxiDraw, and Adobe Illustrator. 
 <br>
-
 ________________________________________________________
 ________________________________________________________
-
 
 **Project 1: Different Inkscape Concept Designs**<br>
 Description: Created a series of art designs using Inkscape. <br>
@@ -22,7 +20,6 @@ Description: Created a series of art designs using Inkscape. <br>
 ________________________________________________________
 ________________________________________________________
 
-
 **Project 2: Fidget Spinner** <br>
 Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 1. Fidget Spinner (Round)<br>
@@ -33,14 +30,12 @@ Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 ________________________________________________________
 ________________________________________________________
 
-
 **Project 3: Wolf Sticker** 
 Description: Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557)" width="550" height="400" /><br>
 <br>
 ________________________________________________________
 ________________________________________________________
-
 
 **Project 4: Wood Print Tags** 
 Description: Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
@@ -55,9 +50,11 @@ Description: Created different tag designs in Inkscape, then printed them out wi
 ________________________________________________________
 ________________________________________________________
 
+**Project 5: Glass Light Design** 
+Description: Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
+[TheBunny.pdf](https://github.com/Zhang-Ale/PrototypeProjects/files/15505147/TheBunny.pdf)<br>
+![light-ezgif com-optimize](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)<br>
 
-**Project 5:** 
-<br>
 ________________________________________________________
 ________________________________________________________
 
@@ -66,7 +63,6 @@ ________________________________________________________
 <br>
 ________________________________________________________
 ________________________________________________________
-
 
 **Project 7:** 
 <br>
