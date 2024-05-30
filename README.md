@@ -46,13 +46,13 @@ Description: Created different tag designs in Inkscape, then printed them out wi
 <img width="348" alt="Screenshot 2024-05-30 at 3 37 04 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c3857638-08f1-44c6-8167-512be2bc7ed2"><br>
 3. Bunny tag <br>
 <img width="353" alt="Screenshot 2024-05-30 at 3 36 48 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/a8fe80b1-34a3-48d2-9784-68c8fb5b1303"><br>
+<br>
 ________________________________________________________
 ________________________________________________________
 
 **Project 5: Glass Light Design** 
 Description: Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
-<img width="399" alt="TheBunny" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0">
-<br>
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0)" width="350" height="350" /><br>
 ![light-ezgif com-optimize](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)<br>
 <br>
 ________________________________________________________
