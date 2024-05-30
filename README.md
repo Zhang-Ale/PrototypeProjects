@@ -31,7 +31,7 @@ ________________________________________________________
 ________________________________________________________
 
 **Project 3: Wolf Sticker** 
-Description: Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br>
+Description: Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557)" width="550" height="400" /><br>
 <br>
 ________________________________________________________
@@ -55,7 +55,7 @@ Description: Created the bunny design in Inkscape, then printed it out with a la
 <img width="399" alt="TheBunny" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0">
 <br>
 ![light-ezgif com-optimize](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)<br>
-
+<br>
 ________________________________________________________
 ________________________________________________________
 
