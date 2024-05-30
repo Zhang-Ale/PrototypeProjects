@@ -22,7 +22,7 @@ Description: Created a series of art designs using Inkscape. <br>
 <br>
 ________________________________________________________
 ________________________________________________________
-<br>
+
 **Project 2: Fidget Spinner** <br>
 Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 1. Fidget Spinner (Round)<br>
