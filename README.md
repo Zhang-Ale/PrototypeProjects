@@ -34,7 +34,9 @@ ________________________________________________________
 ________________________________________________________
 
 
-**Project 3:** 
+**Project 3: Wolf Sticker** 
+Description: Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br>
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557)" width="550" height="400" /><br>
 <br>
 
 ________________________________________________________
