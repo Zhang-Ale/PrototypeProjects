@@ -6,7 +6,7 @@ Below are the projects I made in a course called Intro to Rapid Prototyping at A
 ________________________________________________________
 ________________________________________________________
 
-**Project 1: Different Inkscape Concept Designs**<br>
+**Project 1: Different Inkscape Concept Designs** <br>
 Description: Created a series of art designs using Inkscape. <br>
 1. Replicate of the minimalist visual artist Josef Albers's Magnets<br>
 2. Clock<br>
@@ -30,14 +30,14 @@ Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 ________________________________________________________
 ________________________________________________________
 
-**Project 3: Wolf Sticker** 
+**Project 3: Wolf Sticker** <br>
 Description: Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557)" width="550" height="400" /><br>
 <br>
 ________________________________________________________
 ________________________________________________________
 
-**Project 4: Wood Print Tags** 
+**Project 4: Wood Print Tags** <br>
 Description: Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
 1. My own tag <br>
 2. AUCSSA tag <br>
@@ -50,7 +50,7 @@ Description: Created different tag designs in Inkscape, then printed them out wi
 ________________________________________________________
 ________________________________________________________
 
-**Project 5: Glass Light Design** 
+**Project 5: Glass Light Design** <br>
 Description: Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0)" width="350" height="370" /><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)" width="350" height="620" /><br>
@@ -58,8 +58,9 @@ Description: Created the bunny design in Inkscape, then printed it out with a la
 ________________________________________________________
 ________________________________________________________
 
-**Project 6: Arduino Projects** 
+**Project 6: Arduino Projects** <br>
 Description: Created a series of mini projects with Arduino, Arduino UNO microcontroller board, and various small components. <br>
+[![Watch Video](https://youtu.be/a5mm3Vk7p-4.jpg)](https://youtu.be/a5mm3Vk7p-4)
 1. RGB LEDs
 2. RGB LEDs on the Potentiometer
 3. Delayed LEDs Blink
@@ -67,7 +68,6 @@ Description: Created a series of mini projects with Arduino, Arduino UNO microco
 5. Detect with Servo Motor
 6. Potentiometer with Servo Motor
 7. Piezo song - Hedwig's Theme
-[![Video](https://youtu.be/a5mm3Vk7p-4.jpg)](https://youtu.be/a5mm3Vk7p-4)
 
 ________________________________________________________
 ________________________________________________________
