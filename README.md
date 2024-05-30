@@ -5,9 +5,8 @@ Below are the projects I made in a course called Intro to Rapid Prototyping at A
 <br>
 
 ________________________________________________________
-
-
 ________________________________________________________
+
 
 **Project 1: Different Inkscape Concept Designs**<br>
 Description: Created a series of art designs using Inkscape. <br>
@@ -23,6 +22,7 @@ Description: Created a series of art designs using Inkscape. <br>
 ________________________________________________________
 ________________________________________________________
 
+
 **Project 2: Fidget Spinner** <br>
 Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 1. Fidget Spinner (Round)<br>
@@ -32,32 +32,37 @@ Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 <br>
 ________________________________________________________
 ________________________________________________________
-<br>
-Project 3: 
+
+
+**Project 3:** 
 <br>
 
 ________________________________________________________
 ________________________________________________________
-<br>
-Project 4: 
+
+
+**Project 4:** 
 <br>
 
 ________________________________________________________
 ________________________________________________________
-<br>
-Project 5: 
+
+
+**Project 5:** 
 <br>
 
 ________________________________________________________
 ________________________________________________________
-<br>
-Project 6: 
+
+
+**Project 6:** 
 <br>
 
 ________________________________________________________
 ________________________________________________________
-<br>
-Project 7: 
+
+
+**Project 7:** 
 <br>
 
 Project 8: 
