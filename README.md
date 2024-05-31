@@ -2,7 +2,6 @@
 **Contents:** <br>
 Below are the projects I made in a course called Intro to Rapid Prototyping at American University, using techniques and applications such as Arduino, Vinyl Cutter, Laser Cutter, Inkscape, Fusion 360, 3D Printing, AxiDraw, and Adobe Illustrator. 
 <br>
-<br>
 
 # Project 1: Different Inkscape Concept Designs
 Description: Created a series of art designs using Inkscape. <br>
@@ -14,7 +13,6 @@ Description: Created a series of art designs using Inkscape. <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/bdf50630-aa1a-46a0-806f-ddabf7812028" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/bdf50630-aa1a-46a0-806f-ddabf7812028)" width="350" height="350" /><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/be051388-32e7-40e9-aa55-8d752f9ca8cd" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/be051388-32e7-40e9-aa55-8d752f9ca8cd)" width="350" height="350" />       
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/2b08239a-4453-4bf8-b21b-a5b92bbb2789" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/2b08239a-4453-4bf8-b21b-a5b92bbb2789)" width="350" height="350" /><br> 
-<br><br>
 
 # Project 2: Fidget Spinner
 **Description:** Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
@@ -23,16 +21,12 @@ Description: Created a series of art designs using Inkscape. <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f7ae6e35-8f6f-4ff1-ad4c-ed6114c642df" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f7ae6e35-8f6f-4ff1-ad4c-ed6114c642df)" width="480" height="350" />
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816)" width="480" height="350" /><br>
 [**Video of spinner**](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c661734b-bad5-42b2-9958-b417bc7b587f) <br>
-<br>
-<br>
 
 # Project 3: Wolf Sticker
 Description: Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br>
 <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/37d8d236-0a8b-4b1c-a8a6-77dd2e6b8e4b" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/37d8d236-0a8b-4b1c-a8a6-77dd2e6b8e4b)" width="220" height="350" />
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557)" width="480" height="350" /><br>
-<br>
-<br>
 
 # Project 4: Wood Print Tags
 Description: Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
@@ -45,15 +39,11 @@ Description: Created different tag designs in Inkscape, then printed them out wi
 <img width="348" alt="Screenshot 2024-05-30 at 3 37 04 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c3857638-08f1-44c6-8167-512be2bc7ed2"><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f8190e07-32d8-4dbb-b071-0aba62c69e9d" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f8190e07-32d8-4dbb-b071-0aba62c69e9d)" width="350" height="220" /> 
 <img width="353" alt="Screenshot 2024-05-30 at 3 36 48 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/a8fe80b1-34a3-48d2-9784-68c8fb5b1303"><br>
-<br>
-<br>
 
 # Project 5: Glass Light Design
 Description: Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0)" width="350" height="370" /><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)" width="350" height="620" /><br>
-<br>
-<br>
 
 # Project 6: Arduino Projects
 Description: Created a series of mini projects with Arduino, Arduino UNO microcontroller board, and various small components. <br>
@@ -65,21 +55,4 @@ Description: Created a series of mini projects with Arduino, Arduino UNO microco
 5. Detect with Servo Motor<br>
 6. Potentiometer with Servo Motor<br>
 7. Piezo song - Hedwig's Theme<br>
-<br>
-
-# GAME: Spike the Swordfish 
-
-**Made by:** <br>
-*Linden Killam (environment designer) <br>
-*Hongcheng Zhang (Unity coder)<br>
-
-**Name:** <br>
-*Spike the Spadefish<br>
-
-# How to play 
-**WASD** to move. <br>
-**Left shift** to sprint (hold to swim fast). <br>
-**Left mouse click** to attack. <br>
-**E** to interact. <br>
-**ESC** to pause the game. 
 <br>
