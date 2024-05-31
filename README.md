@@ -62,9 +62,3 @@ Description: Created a series of mini projects with Arduino, Arduino UNO microco
 6. Potentiometer with Servo Motor<br>
 7. Piezo song - Hedwig's Theme<br>
 <br>
-
-
-
-# Build download link 
-(Please download the entire folder named "Build", not just the exe file) <br>
-[**Drive link**](https://drive.google.com/drive/folders/1qamMLIwgofiYr9BCGPi3DPyvrO-6wxia?usp=sharing) <br>
