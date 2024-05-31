@@ -47,7 +47,7 @@ Below are the projects I made in a course called Intro to Rapid Prototyping at A
 # Project 5: Glass Light Design
 **Description:** Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0)" width="350" height="370" />
-<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)" width="350" height="620" /><br>
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)" width="340" height="600" /><br>
 <br>
 
 # Project 6: Arduino Projects
