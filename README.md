@@ -5,6 +5,7 @@ Below are the projects I made in a course called Intro to Rapid Prototyping at A
 <br>
 ________________________________________________________
 ________________________________________________________
+
 <br>
 **Project 1: Different Inkscape Concept Designs** <br>
 Description: Created a series of art designs using Inkscape. <br>
@@ -19,6 +20,7 @@ Description: Created a series of art designs using Inkscape. <br>
 <br>
 ________________________________________________________
 ________________________________________________________
+
 <br>
 **Project 2: Fidget Spinner** <br>
 Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
@@ -29,6 +31,7 @@ Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 <br>
 ________________________________________________________
 ________________________________________________________
+
 <br>
 **Project 3: Wolf Sticker** <br>
 Description: Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br>
@@ -38,6 +41,7 @@ Description: Created a wolf head sticker in Inkscape, then printed it out with a
 <br>
 ________________________________________________________
 ________________________________________________________
+
 <br>
 **Project 4: Wood Print Tags** <br>
 Description: Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
@@ -55,6 +59,7 @@ Description: Created different tag designs in Inkscape, then printed them out wi
 <br>
 ________________________________________________________
 ________________________________________________________
+
 <br>
 **Project 5: Glass Light Design** <br>
 Description: Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
@@ -63,17 +68,18 @@ Description: Created the bunny design in Inkscape, then printed it out with a la
 <br>
 ________________________________________________________
 ________________________________________________________
+
 <br>
 **Project 6: Arduino Projects** <br>
 Description: Created a series of mini projects with Arduino, Arduino UNO microcontroller board, and various small components. <br>
-[![Watch Video](https://youtu.be/a5mm3Vk7p-4.jpg)](https://youtu.be/a5mm3Vk7p-4)
-1. RGB LEDs
-2. RGB LEDs on the Potentiometer
-3. Delayed LEDs Blink
-4. Light Detector
-5. Detect with Servo Motor
-6. Potentiometer with Servo Motor
-7. Piezo song - Hedwig's Theme
+[![Watch Video](https://youtu.be/a5mm3Vk7p-4.jpg)](https://youtu.be/a5mm3Vk7p-4)<br>
+1. RGB LEDs <br>
+2. RGB LEDs on the Potentiometer<br>
+3. Delayed LEDs Blink<br>
+4. Light Detector<br>
+5. Detect with Servo Motor<br>
+6. Potentiometer with Servo Motor<br>
+7. Piezo song - Hedwig's Theme<br>
 <br>
 ________________________________________________________
 ________________________________________________________
