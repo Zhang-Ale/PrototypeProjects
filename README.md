@@ -72,7 +72,7 @@ ________________________________________________________
 <br>
 **Project 6: Arduino Projects** <br>
 Description: Created a series of mini projects with Arduino, Arduino UNO microcontroller board, and various small components. <br>
-[**Watch Video**](https://youtu.be/a5mm3Vk7p-4.jpg)](https://youtu.be/a5mm3Vk7p-4)<br>
+[**Watch Video**](https://youtu.be/a5mm3Vk7p-4.jpg)<br>
 1. RGB LEDs <br>
 2. RGB LEDs on the Potentiometer<br>
 3. Delayed LEDs Blink<br>
