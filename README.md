@@ -42,13 +42,13 @@ Description: Created different tag designs in Inkscape, then printed them out wi
 1. My own tag <br>
 2. AUCSSA tag <br>
 3. Bunny tag <br>
-<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/14b1f554-de14-49f6-bc33-39cdab00c6a3" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/14b1f554-de14-49f6-bc33-39cdab00c6a3)" width="350" height="270" /> 
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b7de7551-d8c3-4060-8497-ec6cb9c906a1" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b7de7551-d8c3-4060-8497-ec6cb9c906a1)" width="350" height="220" />
 <img width="273" alt="Screenshot 2024-05-30 at 3 36 24 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/7de4c3f1-b0cb-40a5-bd52-403bbc5dc09a"><br>
 
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/68a95d5a-22f0-43d4-80a1-c37a058b0470" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/68a95d5a-22f0-43d4-80a1-c37a058b0470)" width="350" height="220" /> 
 <img width="348" alt="Screenshot 2024-05-30 at 3 37 04 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c3857638-08f1-44c6-8167-512be2bc7ed2"><br>
 
-<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f8190e07-32d8-4dbb-b071-0aba62c69e9d" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f8190e07-32d8-4dbb-b071-0aba62c69e9d)" width="350" height="200" /> 
+<img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f8190e07-32d8-4dbb-b071-0aba62c69e9d" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f8190e07-32d8-4dbb-b071-0aba62c69e9d)" width="350" height="220" /> 
 <img width="353" alt="Screenshot 2024-05-30 at 3 36 48 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/a8fe80b1-34a3-48d2-9784-68c8fb5b1303"><br>
 <br>
 ________________________________________________________
