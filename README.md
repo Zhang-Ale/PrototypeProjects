@@ -21,6 +21,7 @@ Description: Created a series of art designs using Inkscape. <br>
 2. Fidget Spinner (Shuriken) <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f7ae6e35-8f6f-4ff1-ad4c-ed6114c642df" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f7ae6e35-8f6f-4ff1-ad4c-ed6114c642df)" width="480" height="350" />
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816)" width="480" height="350" /><br>
+[**Watch Video**](https://youtu.be/a5mm3Vk7p-4)<br>
 [**Video of spinner**](https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/c661734b-bad5-42b2-9958-b417bc7b587f) <br>
 <br>
 
