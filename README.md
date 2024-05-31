@@ -1,7 +1,7 @@
 # Prototype Projects
 
 **Contents:**
-Below are the projects I made in a course called Intro to Rapid Prototyping at American University, using techniques and applications such as: Arduino, Vinyl Cutter, Laser Cutter, Inkscape, Fusion 360, 3D Printing, AxiDraw, and Adobe Illustrator. 
+Below are the projects I made in a course called Intro to Rapid Prototyping at American University, using techniques and applications such as Arduino, Vinyl Cutter, Laser Cutter, Inkscape, Fusion 360, 3D Printing, AxiDraw, and Adobe Illustrator. 
 <br>
 <br>
 **Project 1: Different Inkscape Concept Designs** <br>
@@ -16,7 +16,7 @@ Description: Created a series of art designs using Inkscape. <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/2b08239a-4453-4bf8-b21b-a5b92bbb2789" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/2b08239a-4453-4bf8-b21b-a5b92bbb2789)" width="350" height="350" /><br> 
 <br>
 <br>
-__Project 2: Fidget Spinner__ <br>
+**Project 2: Fidget Spinner** <br>
 Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 1. Fidget Spinner (Round)<br>
 2. Fidget Spinner (Shuriken) <br>
@@ -50,6 +50,7 @@ Description: Created the bunny design in Inkscape, then printed it out with a la
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0)" width="350" height="370" /><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)" width="350" height="620" /><br>
 <br>
+-
 <br>
 **Project 6: Arduino Projects** <br>
 Description: Created a series of mini projects with Arduino, Arduino UNO microcontroller board, and various small components. <br>
