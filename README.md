@@ -1,8 +1,8 @@
 # Prototype Projects
-
 **Contents:** <br>
 Below are the projects I made in a course called Intro to Rapid Prototyping at American University, using techniques and applications such as Arduino, Vinyl Cutter, Laser Cutter, Inkscape, Fusion 360, 3D Printing, AxiDraw, and Adobe Illustrator. 
-<br><br>
+<br>
+<br>
 # Project 1: Different Inkscape Concept Designs
 Description: Created a series of art designs using Inkscape. <br>
 1. Replicate of the minimalist visual artist Josef Albers's Magnets<br>
