@@ -4,7 +4,7 @@ Below are the projects I made in a course called Intro to Rapid Prototyping at A
 <br>
 
 # Project 1: Different Inkscape Concept Designs
-Description: Created a series of art designs using Inkscape. <br>
+**Description:** Created a series of art designs using Inkscape. <br>
 1. Replicate of the minimalist visual artist Josef Albers's Magnets<br>
 2. Clock<br>
 3. Stars<br>
@@ -32,7 +32,7 @@ Description: Created a wolf head sticker in Inkscape, then printed it out with a
 <br>
 
 # Project 4: Wood Print Tags
-Description: Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
+**Description:** Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
 1. My own tag <br>
 2. AUCSSA tag <br>
 3. Bunny tag <br>
@@ -45,13 +45,13 @@ Description: Created different tag designs in Inkscape, then printed them out wi
 <br>
 
 # Project 5: Glass Light Design
-Description: Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
+**Description:** Created the bunny design in Inkscape, then printed it out with a laser cutter.<br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0)" width="350" height="370" /><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)" width="350" height="620" /><br>
 <br>
 
 # Project 6: Arduino Projects
-Description: Created a series of mini projects with Arduino, Arduino UNO microcontroller board, and various small components. <br>
+**Description:** Created a series of mini projects with Arduino, Arduino UNO microcontroller board, and various small components. <br>
 [**Watch Video**](https://youtu.be/a5mm3Vk7p-4)<br>
 1. RGB LEDs <br>
 2. RGB LEDs on the Potentiometer<br>
