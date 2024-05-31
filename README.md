@@ -25,7 +25,7 @@ Below are the projects I made in a course called Intro to Rapid Prototyping at A
 <br>
 
 # Project 3: Wolf Sticker
-Description: Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br>
+**Description:** Created a wolf head sticker in Inkscape, then printed it out with a vinyl cutter. <br>
 <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/37d8d236-0a8b-4b1c-a8a6-77dd2e6b8e4b" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/37d8d236-0a8b-4b1c-a8a6-77dd2e6b8e4b)" width="220" height="350" />
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557)" width="480" height="350" /><br>
