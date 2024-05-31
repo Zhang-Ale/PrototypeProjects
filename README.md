@@ -16,7 +16,7 @@ Description: Created a series of art designs using Inkscape. <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/2b08239a-4453-4bf8-b21b-a5b92bbb2789" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/2b08239a-4453-4bf8-b21b-a5b92bbb2789)" width="350" height="350" /><br> 
 <br>
 <br>
-**Project 2: Fidget Spinner** <br>
+__Project 2: Fidget Spinner__ <br>
 Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 1. Fidget Spinner (Round)<br>
 2. Fidget Spinner (Shuriken) <br>
