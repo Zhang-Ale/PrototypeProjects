@@ -60,3 +60,19 @@ Description: Created a series of mini projects with Arduino, Arduino UNO microco
 6. Potentiometer with Servo Motor<br>
 7. Piezo song - Hedwig's Theme<br>
 <br>
+# GAME: Spike the Swordfish 
+
+**Made by:** <br>
+*Linden Killam (environment designer) <br>
+*Hongcheng Zhang (Unity coder)<br>
+
+**Name:** <br>
+*Spike the Spadefish<br>
+
+# How to play 
+**WASD** to move. <br>
+**Left shift** to sprint (hold to swim fast). <br>
+**Left mouse click** to attack. <br>
+**E** to interact. <br>
+**ESC** to pause the game. 
+<br>
