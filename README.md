@@ -10,7 +10,6 @@ Description: Created a series of art designs using Inkscape. <br>
 2. Clock<br>
 3. Stars<br>
 4. Glitching Circles<br>
-
 <br>
 # Project 2: Fidget Spinner
 Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
