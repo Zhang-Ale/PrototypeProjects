@@ -15,8 +15,6 @@ Description: Created a series of art designs using Inkscape. <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/be051388-32e7-40e9-aa55-8d752f9ca8cd" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/be051388-32e7-40e9-aa55-8d752f9ca8cd)" width="400" height="400" /> 
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/2b08239a-4453-4bf8-b21b-a5b92bbb2789" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/2b08239a-4453-4bf8-b21b-a5b92bbb2789)" width="400" height="400" /><br> 
 <br>
-________________________________________________________
-________________________________________________________
 
 <br>
 **Project 2: Fidget Spinner** <br>
@@ -26,8 +24,6 @@ Description: Created a fidget spinner using Fusion 360 and a 3D Printer. <br>
 2. Fidget Spinner (Shuriken) <br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/e1122b5e-925f-4f2e-81d4-b6ec556a9816)" width="550" height="400" /><br>
 <br>
-________________________________________________________
-________________________________________________________
 
 <br>
 **Project 3: Wolf Sticker** <br>
@@ -36,9 +32,7 @@ Description: Created a wolf head sticker in Inkscape, then printed it out with a
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/37d8d236-0a8b-4b1c-a8a6-77dd2e6b8e4b" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/37d8d236-0a8b-4b1c-a8a6-77dd2e6b8e4b)" width="220" height="350" />
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/712dc1e5-a676-4f21-9e80-c15638b4e557)" width="480" height="350" /><br>
 <br>
-________________________________________________________
-________________________________________________________
-
+  
 <br>
 **Project 4: Wood Print Tags** <br>
 Description: Created different tag designs in Inkscape, then printed them out with a laser cutter. <br>
@@ -54,8 +48,6 @@ Description: Created different tag designs in Inkscape, then printed them out wi
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f8190e07-32d8-4dbb-b071-0aba62c69e9d" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/f8190e07-32d8-4dbb-b071-0aba62c69e9d)" width="350" height="220" /> 
 <img width="353" alt="Screenshot 2024-05-30 at 3 36 48 PM" src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/a8fe80b1-34a3-48d2-9784-68c8fb5b1303"><br>
 <br>
-________________________________________________________
-________________________________________________________
 
 <br>
 **Project 5: Glass Light Design** <br>
@@ -63,8 +55,6 @@ Description: Created the bunny design in Inkscape, then printed it out with a la
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/b2c8d06c-455b-46bf-8385-e7c07b4800b0)" width="350" height="370" /><br>
 <img src="https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03" data-canonical-src="(https://github.com/Zhang-Ale/PrototypeProjects/assets/116378770/22ec2790-6a2a-4a5c-9053-0f34c9ceae03)" width="350" height="620" /><br>
 <br>
-________________________________________________________
-________________________________________________________
 
 <br>
 **Project 6: Arduino Projects** <br>
@@ -78,5 +68,3 @@ Description: Created a series of mini projects with Arduino, Arduino UNO microco
 6. Potentiometer with Servo Motor<br>
 7. Piezo song - Hedwig's Theme<br>
 <br>
-________________________________________________________
-________________________________________________________
